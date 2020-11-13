@@ -8,6 +8,6 @@ subheading: ""
 banner: "/assets/images/banners/home.jpeg"
 ---
 
-## Amzer
+
 
 Essaie encore

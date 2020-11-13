@@ -29,9 +29,10 @@ yat:
   date_format: "%d %b, %Y"
 
 # Build settings
-remote-theme:  jeffreytse/jekyll-theme-yat 
+theme: jekyll-theme-yat 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 
 # Exclude from processing.

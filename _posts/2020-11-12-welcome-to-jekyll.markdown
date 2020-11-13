@@ -4,28 +4,17 @@ title:  "Édito octovembre"
 date:   2020-11-12 16:03:29 +0100
 categories: jekyll update
 ---
-Et là, ça marche?
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+**P**arce qu’il faut parfois savoir appuyer sur pause.
 
-Jekyll requires blog post files to be named according to the following format:
+**A**rrêter de courir, s’accorder le plaisir de prendre tout son temps. Se reposer, se ressourcer, changer d’horizon, faire le plein d’énergie, d’idées et de projets.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+**U**ne ou deux fois par an, se permettre d’inventer des mois de soixante jours, passer d’un mensuel à un bimestriel.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**S**e mettre au diapason de la nouvelle saison, ralentir le tic tac de l’horloge, le rythme des journées, écouter la quiétude embrasser la nature et en faire tout autant.
 
-Jekyll also offers powerful support for code snippets:
+**E**t vous souhaiter un beau début d’automne avant de vous donner rendez-vous en décembre !  
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![Amzer octovembre]({{ '/assets/images/banners/about.jpeg'}})
+[Amzer octovembre]({{ site.baseurl }}{% link assets/pdf/Amzer-22-octobrenovembre.pdf %})
