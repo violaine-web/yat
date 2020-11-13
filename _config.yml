@@ -29,7 +29,7 @@ yat:
   date_format: "%d %b, %Y"
 
 # Build settings
-theme: jekyll-theme-yat
+remote-theme:  jeffreytse/jekyll-theme-yat 
 plugins:
   - jekyll-feed
 
