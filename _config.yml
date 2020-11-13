@@ -22,7 +22,7 @@ title: "AMZER"
 email: violaine@amzer.bzh
 description: >- # this means to ignore newlines until "baseurl:"
   Amzer - l'éclectique mensuel de l'Aulne Maritime et la Presqu'île de Crozon
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/yat" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  violaine-web
 yat:
